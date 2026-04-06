@@ -1,0 +1,13 @@
+{
+  "name": "roblox-auto-rank-bot",
+  "version": "1.0.0",
+  "description": "Auto ranks new Roblox group members",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "noblox.js": "^4.15.0",
+    "dotenv": "^16.0.0"
+  }
+}
